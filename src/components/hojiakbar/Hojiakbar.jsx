@@ -3,7 +3,7 @@ import React from 'react'
 const Hojiakbar = () => {
   return (
     <div>
-      Hojiakbar
+      <h1>Assalomu aleykum　qabul qildim　</h1>
     </div>
   )
 }
