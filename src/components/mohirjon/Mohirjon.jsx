@@ -3,7 +3,7 @@ import React from 'react'
 const Mohirjon = () => {
   return (
     <div>
-      Mohirjon
+      Mohirjon qabul qildim
     </div>
   )
 }
